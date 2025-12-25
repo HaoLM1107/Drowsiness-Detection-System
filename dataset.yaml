@@ -1,8 +1,8 @@
-path: C:\Users\LENOVO\Documents\YOLO-Based-Drowsiness-Detection-System-for-Road-Safety-main-main\data4
+path: C:\Users\LENOVO\Documents\YOLO-Based-Drowsiness-Detection-System-for-Road-Safety-main-main\data5
 
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: train/images
+val: valid/images
+test: test/images
 
 nc: 5
 names: ['awake', 'drowsy', 'talking_phone', 'texting_phone', 'turning']
